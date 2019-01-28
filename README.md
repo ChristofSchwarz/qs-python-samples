@@ -18,3 +18,6 @@ See readme file of subfolder <a href="https://github.com/ChristofSchwarz/qs-pyth
  
  ## Project "LinearRegression"
  
+ See readme file of subfolder <a href="https://github.com/ChristofSchwarz/qs-python-samples/tree/master/LinearRegression">LinearRegression</a>
+ 
+ 
