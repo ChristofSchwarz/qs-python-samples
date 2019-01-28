@@ -1,6 +1,6 @@
 # Basket Analysis Server-Side-Extension
 
-This is a python project that acts as a Server-Side Extension for Qlik Sense.
+This is a python project that acts as a Server-Side Extension for Qlik Sense. The python code was developed by <a href="https://github.com/rileymd88">Riley MD</a>, thanks for the genious work.
 
 ## 1st time setup
  * Run Command Prompt
@@ -18,17 +18,28 @@ pip install grpcio-tools
 pip install mlxtend
 pip install pandas
 ```    
-
+ * Run the Python app
+```
+python __main__.py
+```
+ 
 ### Setup on Qlik Sense Server
  * Open QMC of your Sense Server
  * Create a new Analytical Connection with the following settings
  ![alttext](https://github.com/ChristofSchwarz/pics/raw/master/python4.png "screenshot")
- * Import the app "Python Linear Regression.qvf" found in this folder
+ * Import the app "Python Basket Analysis AAI.qvf" found in this folder
  * Open this app from the hub
+ * Go to DataloadEditor (Load Script)
+ * Find the Data connection "PythonBasketSampleQVDs" and click the pen icon (edit)
+ * change this (invalid) path to where the qvd files are located, they are in a subfolder of this project
+ * Since the connection gets renamed and "(xxxxx)" gets added to the connection, adjust the variable vLib in row 21 accordingly
+```
+SET vLib = 'lib://PythonBasketSampleQVDs (qse-csw_admincsw)\';
+```
  
 ## Restart next time
  * Run Command Prompt
-```
+```(python)
 workon Basket
 python __main__.py
 ```  
