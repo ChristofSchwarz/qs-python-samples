@@ -14,7 +14,6 @@ Steps to install Python
  
  # Project "Basket"
  
- From a Command Prompt run
-  * mkvirtualenv Basket
+See readme file of subfolder <a href="https://github.com/ChristofSchwarz/qs-python-samples/tree/master/Basket">Basket</a>
  
  
