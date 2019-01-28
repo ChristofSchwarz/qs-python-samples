@@ -22,9 +22,11 @@ pip install sklearn
 pip install pandas
 ``` 
 ### Setup on Qlik Sense Server
- * Open QMC
+ * Open QMC of your Sense Server
  * Create a new Analytical Connection with the following settings
  ![alttext](https://github.com/ChristofSchwarz/pics/raw/master/python3.png "screenshot")
+ * Import the app "Python Linear Regression.qvf" found in this folder
+ * Open this app from the hub
  
 ## Restart next time
  * Run Command Prompt
