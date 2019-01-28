@@ -44,7 +44,7 @@ SSEPlugin=PythonBasket,localhost:50088;PythonRegression,localhost:50059
  * Create a new Analytical Connection with the following settings
  ![alttext](https://github.com/ChristofSchwarz/pics/raw/master/python3.png "screenshot")
  * Import the app "Python Linear Regression.qvf" found in this folder
- * Open this app from the hub
+ * Open app "Python Linear Regression" from the hub and see the trend line on first sheet
  
 ## Restart next time
  * Run Command Prompt
