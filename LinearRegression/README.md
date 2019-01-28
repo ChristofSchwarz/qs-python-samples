@@ -2,7 +2,7 @@
  
  Qlik Sense Server-side Extension to call linear regression from App GUI.
  
- ### 1st time setup
+ ## 1st time setup
  * Run Command Prompt
  * Setup project environment 
 ```
@@ -21,9 +21,12 @@ python -m pip install grpcio-tools
 pip install sklearn
 pip install pandas
 ``` 
-#### Setup on Qlik Sense Server
- * 
-### restart next time
+### Setup on Qlik Sense Server
+ * Open QMC
+ * Create a new Analytical Connection with the following settings
+ ![alttext](https://github.com/ChristofSchwarz/pics/raw/master/python3.png "screenshot")
+ 
+## Restart next time
  * Run Command Prompt
 ```
 workon LinearRegression
