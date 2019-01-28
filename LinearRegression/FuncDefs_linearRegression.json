@@ -1,0 +1,13 @@
+{
+    "Functions" : [
+        {
+            "Id" : 0,
+            "Name" : "LinearRegression",
+            "Type" : 2,
+            "ReturnType": 1,
+            "Params" : {
+                    "data" : 1
+                }
+        }
+    ]
+}
