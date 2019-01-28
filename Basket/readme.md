@@ -40,10 +40,11 @@ SSEPlugin=PythonRegression,localhost:50059;PythonBasket,localhost:50088
 ``` 
  * Copy the app "Python Basket Analysis AAI.qvf" from this project folder into Documents\Qlik\Sense\Apps e.g. C:\Users\csw\Documents\Qlik\Sense\Apps
  * Run or restart Qlik Sense Desktop and log in
+ * Open app "Python Basket Analysis AAI" from the hub
  * Find the Data connection "PythonBasketSampleQVDs" on the right and click the pen icon (edit)
 ![alttext](https://github.com/ChristofSchwarz/pics/raw/master/python5.png "screenshot") 
  * change this (invalid) path to where the qvd files are located, they are in a subfolder of this project
-* Reload the app (this is where the integration happens, the Qlik load script submits data to Python and waits for the response)
+ * Reload the app (this is where the integration happens, the Qlik load script submits data to Python and waits for the response)
 
 ### Setup on Qlik Sense Server
  * Open QMC of your Sense Server
