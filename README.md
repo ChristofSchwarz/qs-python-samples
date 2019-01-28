@@ -12,8 +12,9 @@ Steps to install Python
    - pip install virtualenv
    - pip install virtualenvwrapper-win
  
- # Project "Basket"
+ ## Project "Basket"
  
 See readme file of subfolder <a href="https://github.com/ChristofSchwarz/qs-python-samples/tree/master/Basket">Basket</a>
  
+ ## Project "LinearRegression"
  
