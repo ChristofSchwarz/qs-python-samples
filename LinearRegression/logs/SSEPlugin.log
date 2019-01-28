@@ -1,0 +1,14 @@
+2019-01-28 14:24:43,575 - INFO - ExtensionService_linearRegression : 40 - Logging enabled
+2019-01-28 14:24:43,607 - INFO - ExtensionService_linearRegression : 241 - *** Running server in insecure mode on port: 50059 ***
+2019-01-28 14:35:01,487 - INFO - ExtensionService_linearRegression : 147 - GetCapabilities
+2019-01-28 14:35:42,496 - INFO - ExtensionService_linearRegression : 147 - GetCapabilities
+2019-01-28 14:36:43,501 - INFO - ExtensionService_linearRegression : 147 - GetCapabilities
+2019-01-28 14:37:16,836 - INFO - ExtensionService_linearRegression : 170 - Adding to capabilities: LinearRegression(['data'])
+2019-01-28 14:37:16,851 - INFO - ExtensionService_linearRegression : 170 - Adding to capabilities: LinearRegression(['data'])
+2019-01-28 14:37:16,851 - INFO - ExtensionService_linearRegression : 170 - Adding to capabilities: LinearRegression(['data'])
+2019-01-28 14:38:24,503 - INFO - ExtensionService_linearRegression : 147 - GetCapabilities
+2019-01-28 14:38:24,503 - INFO - ExtensionService_linearRegression : 170 - Adding to capabilities: LinearRegression(['data'])
+2019-01-28 14:39:16,482 - INFO - ExtensionService_linearRegression : 147 - GetCapabilities
+2019-01-28 14:39:16,482 - INFO - ExtensionService_linearRegression : 170 - Adding to capabilities: LinearRegression(['data'])
+2019-01-28 14:39:57,296 - INFO - ExtensionService_linearRegression : 185 - ExecuteFunction (functionId: 0)
+2019-01-28 14:39:57,302 - INFO - ExtensionService_linearRegression : 185 - ExecuteFunction (functionId: 0)
