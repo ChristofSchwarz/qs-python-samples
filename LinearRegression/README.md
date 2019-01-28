@@ -14,7 +14,7 @@ mkvirtualenv LinearRegression
 cd "C:\Users\admincsw\Documents\GitHub\qs-python-samples\LinearRegression"
 setprojectdir .
 ```
- * install packages (pyparsing, cycler, kiwisolver, python-dateutil, matplotlib, pytz, pandas, mlxtend)
+ * install Python packages 
 ```
 pip install grpcio
 python -m pip install grpcio-tools
