@@ -1,5 +1,7 @@
 # Examples of integrating Qlik Sense and Python 
 
+To see this live watch this 8 minutes video https://youtu.be/nI-Bgal-dSM
+
 Instructions below are for Python on Windows
 
 In this example we will set up 2 Server-side Extensions for Qlik, each of which is a Python project
