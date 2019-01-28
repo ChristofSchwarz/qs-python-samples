@@ -19,11 +19,11 @@ setprojectdir .
 pip install grpcio
 python -m pip install grpcio-tools
 pip install sklearn
-pip install numpy
-pip install scipy
 pip install pandas
 ``` 
- ### restart next time
+#### Setup on Qlik Sense Server
+ * 
+### restart next time
  * Run Command Prompt
 ```
 workon LinearRegression
