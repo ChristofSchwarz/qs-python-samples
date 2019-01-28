@@ -7,8 +7,8 @@ This is a python project that acts as a Server-Side Extension for Qlik Sense.
  * Download/clone this project 
  * Go to the folder where you downloaded/cloned the LinearRegression to and also create a environment with the same name
 ```
-cd "C:\Users\admincsw\Documents\GitHub\qs-python-samples\LinearRegression"
-mkvirtualenv LinearRegression
+cd "C:\Users\admincsw\Documents\GitHub\qs-python-samples\Basket"
+mkvirtualenv Basket
 setprojectdir .
 ```
  * install Python packages 
