@@ -4,14 +4,11 @@
  
  ## 1st time setup
  * Run Command Prompt
- * Setup project environment 
-```
-mkvirtualenv LinearRegression
-```
  * Download/clone this project 
- * Go to the folder where you downloaded/cloned the LinearRegression to
+ * Go to the folder where you downloaded/cloned the LinearRegression to and also create a environment with the same name
 ```
 cd "C:\Users\admincsw\Documents\GitHub\qs-python-samples\LinearRegression"
+mkvirtualenv LinearRegression
 setprojectdir .
 ```
  * install Python packages 
