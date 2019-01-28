@@ -1,2 +1,5 @@
-2019-01-28 14:00:42,263 - INFO - __main__ : 46 - Logging enabled
-2019-01-28 14:00:42,310 - INFO - __main__ : 254 - *** Running server in insecure mode on port: 50088 ***
+2019-01-28 15:03:33,786 - INFO - __main__ : 46 - Logging enabled
+2019-01-28 15:03:33,786 - INFO - __main__ : 254 - *** Running server in insecure mode on port: 50088 ***
+2019-01-28 15:12:43,984 - INFO - __main__ : 156 - GetCapabilities
+2019-01-28 15:12:43,991 - INFO - __main__ : 179 - Adding to capabilities: MarketBasketAnalysis(['orderId', 'productId', 'purchased'])
+2019-01-28 15:41:17,270 - INFO - __main__ : 194 - ExecuteFunction (functionId: 0)
