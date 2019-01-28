@@ -1,0 +1,15 @@
+{
+    "Functions" : [
+        {
+            "Id" : 0,
+            "Name" : "MarketBasketAnalysis",  
+            "Type" : 2,
+            "ReturnType": 1,
+            "Params" : {
+                "orderId" : 1,
+                "productId" : 1,
+                "purchased": 1
+            }
+        }
+    ]
+}
