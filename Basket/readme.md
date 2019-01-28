@@ -38,10 +38,11 @@ python __main__.py
  * Find the Data connection "PythonBasketSampleQVDs" on the right and click the pen icon (edit)
 ![alttext](https://github.com/ChristofSchwarz/pics/raw/master/python5.png "screenshot") 
  * change this (invalid) path to where the qvd files are located, they are in a subfolder of this project
- * Since the connection gets renamed and "(xxxxx)" gets added to the connection, adjust the variable vLib in row 21 accordingly
+ * Since the connection gets renamed and "(machine_user)" gets added to the connection, adjust the variable vLib in row 21 accordingly, e.g.
 ```
 SET vLib = 'lib://PythonBasketSampleQVDs (qse-csw_admincsw)\';
 ```
+ * Reload the app (this is where the integration happens, the Qlik load script submits data to Python and waits for the response
  
 ## Restart next time
  * Run Command Prompt
