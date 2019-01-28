@@ -9,4 +9,9 @@ This is a python project that acts as a Server-Side Extension for Qlik Sense.
     - mkvirtualenv Basket
  * set current folder as the project folder (the dot is correct, it's the current Command Prompt folder)
     - setprojectdir .
+ * install gRPC protocol library
+    - python -m pip install grpcio-tools
+ * install a package which contains a whole lot of stuff (numpy, python-dateutil, pytz, pandas, kiwisolver, pyparsing, cycler, matplotlib, scipy, scikit-learn, mlxtend)
+    - pip install mlxtend
+ * 
     
