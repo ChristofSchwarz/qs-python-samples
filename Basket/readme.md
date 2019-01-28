@@ -2,6 +2,8 @@
 
 This is a python project that acts as a Server-Side Extension for Qlik Sense. The python code was developed by <a href="https://github.com/rileymd88">Riley MD</a>, thanks for the genious work.
 
+If you've already set up this example and re-run it, go to <a href="#restart-next-time">Restart</a>
+
 ## 1st time setup
  * Run Command Prompt
  * Download/clone this project 
