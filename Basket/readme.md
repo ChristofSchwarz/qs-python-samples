@@ -12,6 +12,8 @@ This is a python project that acts as a Server-Side Extension for Qlik Sense.
  * install gRPC protocol library
     - python -m pip install grpcio-tools
  * install a package which contains a whole lot of stuff (numpy, python-dateutil, pytz, pandas, kiwisolver, pyparsing, cycler, matplotlib, scipy, scikit-learn, mlxtend)
+```
     - pip install mlxtend
+```    
  * 
     
