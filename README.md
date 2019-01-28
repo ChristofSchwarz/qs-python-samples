@@ -8,8 +8,13 @@ In this example we will set up 2 Server-side Extensions for Qlik, each of which 
 
 Steps to install Python
  * download and install Python from https://www.python.org/downloads
- * install python libraries for easier project encapsulation (pip is the python package manager)
+ * install python libraries for easier project encapsulation (pip is the python package manager). From a Command Prompt run
    - pip install virtualenv
    - pip install virtualenvwrapper-win
+ 
+ # Project "Basket"
+ 
+ From a Command Prompt run
+  * mkvirtualenv Basket
  
  
