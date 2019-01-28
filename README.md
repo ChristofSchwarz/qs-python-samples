@@ -1,2 +1,15 @@
-# qs-python-samples
-Examples of integrating Qlik Sense and Python
+# Examples of integrating Qlik Sense and Python 
+
+Instructions below are for Python on Windows
+
+In this example we will set up 2 Server-side Extensions for Qlik, each of which is a Python project
+ * Basket
+ * LinearRegression
+
+Steps to install Python
+ * download and install Python from https://www.python.org/downloads
+ * install python libraries for easier project encapsulation (pip is the python package manager)
+   - pip install virtualenv
+   - pip install virtualenvwrapper-win
+ 
+ 
