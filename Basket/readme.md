@@ -13,6 +13,8 @@ cd "C:\Users\admincsw\Documents\GitHub\qs-python-samples\Basket"
 mkvirtualenv Basket
 setprojectdir .
 ```
+![alttext](https://github.com/ChristofSchwarz/pics/raw/master/python7.png "screenshot")
+
  * install Python packages 
 ```
 pip install grpcio
@@ -30,9 +32,11 @@ python __main__.py
  * Create a new Analytical Connection with the following settings
  ![alttext](https://github.com/ChristofSchwarz/pics/raw/master/python4.png "screenshot")
  * Import the app "Python Basket Analysis AAI.qvf" found in this folder
+![alttext](https://github.com/ChristofSchwarz/pics/raw/master/python6.png "screenshot") 
  * Open this app from the hub
  * Go to DataloadEditor (Load Script)
- * Find the Data connection "PythonBasketSampleQVDs" and click the pen icon (edit)
+ * Find the Data connection "PythonBasketSampleQVDs" on the right and click the pen icon (edit)
+![alttext](https://github.com/ChristofSchwarz/pics/raw/master/python5.png "screenshot") 
  * change this (invalid) path to where the qvd files are located, they are in a subfolder of this project
  * Since the connection gets renamed and "(xxxxx)" gets added to the connection, adjust the variable vLib in row 21 accordingly
 ```
