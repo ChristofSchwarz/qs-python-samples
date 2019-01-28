@@ -16,9 +16,12 @@ setprojectdir .
 ```
  * install packages (pyparsing, cycler, kiwisolver, python-dateutil, matplotlib, pytz, pandas, mlxtend)
 ```
-pip install grpcio-tools
+pip install grpcio
+python -m pip install grpcio-tools
 pip install sklearn
 pip install numpy
+pip install scipy
+pip install pandas
 ``` 
  ### restart next time
  * Run Command Prompt
