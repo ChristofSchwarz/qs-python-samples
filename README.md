@@ -15,7 +15,7 @@ Steps to install Python (1st time)
  * install python libraries for easier project encapsulation (pip is the python package manager). From a Command Prompt run
 ``` 
 pip install virtualenv
-pip install virtualenvwrapper-win<br>
+pip install virtualenvwrapper-win
 ```
 ![alttext](https://github.com/ChristofSchwarz/pics/raw/master/python2.png "screenshot")
  
